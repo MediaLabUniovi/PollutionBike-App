@@ -1,6 +1,6 @@
 import React, { createContext, useContext } from 'react';
-import useBLE from '../hooks/useBLE'; // Real implementation (Requires Native Build)
-// import useBLE from '../hooks/useBLEMock'; // Mock implementation (Works in Expo Go)
+// import useBLE from '../hooks/useBLE'; // Real implementation (Requires Native Build)
+import useBLE from '../hooks/useBLEMock'; // Mock implementation (Works in Expo Go)
 
 const BLEContext = createContext(null);
 

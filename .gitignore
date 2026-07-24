@@ -46,6 +46,9 @@ ios/Pods/
 ios/build/
 ios/DerivedData/
 
+# Custom Exclusions
+arduino/
+
 # macOS & System Files
 .DS_Store
 .DS_Store?
