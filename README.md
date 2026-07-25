@@ -2,6 +2,14 @@
 
 Esta aplicación desarrollada en React Native (Expo) permite interactuar por Bluetooth Low Energy (BLE) con el sensor de contaminación móvil del reto TICLab 2025. 
 
+## Capturas de Pantalla
+
+| Conexión Bluetooth | Leyenda de Espera | Dashboard en Tiempo Real |
+| :---: | :---: | :---: |
+| <img src="img/screen_bluetooth.jpg" width="250" alt="Pantalla Conectar Sensor" /> | <img src="img/screen_legend.jpg" width="250" alt="Leyenda de Operación" /> | <img src="img/screen_dashboard.jpg" width="250" alt="Dashboard con Datos" /> |
+
+---
+
 ## Funcionamiento General
 
 La aplicación está diseñada para monitorizar y descargar los datos recolectados por el sensor embebido. El sistema consta de varias pantallas:
